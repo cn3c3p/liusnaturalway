@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>TechOS-Dokumentasjon on Gulldoks</title>
-    <link>https://cn3c3p.github.io/liusnaturalway/no/docs/</link>
+    <link>https://cn3c3p.github.io/no/docs/</link>
     <description>Recent content in TechOS-Dokumentasjon on Gulldoks</description>
     <generator>Hugo</generator>
     <language>no</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="https://cn3c3p.github.io/liusnaturalway/no/docs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://cn3c3p.github.io/no/docs/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
